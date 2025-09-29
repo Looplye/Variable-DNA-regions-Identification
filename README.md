@@ -15,6 +15,10 @@ The first and second step are there to determined the variable regions of the ge
 #### `main`
 Calls all the functions and manages the folder and files.
 
+#### `log`
+Display the time for each step so following the program become easier. 
+
+
 ### **First step** : to find and regroup the indels
 
 #### `researche_change`
@@ -37,9 +41,6 @@ Create a score file in pileup for each window, with their position, their score 
 
 #### `visual`
 Creates the first csv file "analysis" from the pileup generated earlier (seeing the results as a human become easier)
-
-#### `log`
-Display the time for each step so following the program become easier. 
 
  
 ### **Third step** : to randomize
