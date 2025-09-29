@@ -10,4 +10,4 @@ To use this program you have to create a folder and put all the genomes you want
 ## Author
 
 Created by Lou PLANTEROSE and Romain COPPÉE.  
-GitHub: [Noé MATHIEUX]([https://github.com/Looplye])
+GitHub: [Lou PLANTEROSE](https://github.com/Looplye)
